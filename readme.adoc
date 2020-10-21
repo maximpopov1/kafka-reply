@@ -1,0 +1,9 @@
+Пример использования кафки с replyResponse
+
+. Запускаем кафку:
+
+    docker compose up
+
+. Запускаем kafka01-consumer
+
+. Запускаем kafka01-producer

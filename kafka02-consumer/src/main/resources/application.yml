@@ -1,0 +1,12 @@
+server:
+  port: 9010
+
+kafka:
+  topic:
+    request: topic-request
+  group:
+    id: group
+
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
